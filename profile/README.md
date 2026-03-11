@@ -7,7 +7,7 @@ https://hedwi.com
 
 [documentation](https://hedwi.com/document/mail-suite/zh-hans/)
 
-![hedwi work suite](https://raw.githubusercontent.com/hedwi/.github/main/images/demo.png)
+![hedwi work suite](https://raw.githubusercontent.com/hedwi/.github/main/images/demo-image.png?v=1)
 
 ## Contact
 
