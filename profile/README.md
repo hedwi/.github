@@ -9,7 +9,10 @@ https://hedwi.com
 
 ![hedwi work suite](https://raw.githubusercontent.com/hedwi/.github/main/images/demo.png)
 
-## Wechat 企业微信
+## Contact
 
-![企业微信](https://raw.githubusercontent.com/hedwi/.github/main/images/qiyeweixin.png)
+[Discord](https://discord.gg/gH38XgvX)
 
+[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=4PbmCghBcHG4t_xncFgYQNOVYKPazX5x&jump_from=webapi&authKey=QR7bn5WlKKo2el+vOiPb1RmacliTt+dxgQTfC8N5anukJW20+9TxmKqdp24q4AXx)
+
+[Email](mailto:lxl1217@gmail.com)
