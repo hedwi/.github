@@ -1,11 +1,16 @@
-# Hedwi 海未办公 
+# Hedwi 海未办公 -> BindOffice
 
 ## About 关于
-Self-hosted work suite. Google workspace alternative.
+Self-hosted office suite. Google workspace alternative.
 
-https://hedwi.com
 
-[documentation](https://hedwi.com/document/mail-suite/zh-hans/)
+https://hedwi.com -> https://bindoffice.com
+
+
+[new docker repo](https://github.com/bindoffice/bind-docker)
+
+
+
 
 ![hedwi work suite](https://raw.githubusercontent.com/hedwi/.github/main/images/demo-image.png?v=1)
 
